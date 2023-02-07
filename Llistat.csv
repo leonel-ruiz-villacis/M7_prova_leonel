@@ -1,0 +1,11 @@
+ID,NAME,SURNAME,EMAIL,USER,GROUP,YEAR,ROOM,ABSENCES,MODULE,NOTES
+1,Roger,Sobrino,rsobri@rsobri.cat,Student,DAW2,2023,A46,0,M07,8
+2,Raúl,Rufo,rrufo@rrufo.cat,Student,DAW2,2023,A46,6,M07,6
+3,Kevin,Sama,ksama@ksama.cat,Student,DAW2,2023,A46,1,M07,7
+4,Andres,Carles,acarles@acarles.cat,Student,DAW2,2023,A46,0,M07,3
+5,Ivan,Cozar,icozar@icozar.cat,Student,DAW2,2023,A46,14,M07,5
+6,Xavier,Martorell,xmartorell@xmartorell.cat,Student,DAM2,2023,A41,25,M07,3
+7,Samuel,Maseda,smaseda@smaseda.cat,Student,DAM2,2023,A41,2,M07,5
+8,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+9,Marta,Fernandez,mfernandez@mfernandez.cat,Student,DAM2,2023,A41,8,M07,8
+10,Sara,Valle,svalle@svalle.cat,Student,DAM2,2023,A41,3,M07,6
